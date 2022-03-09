@@ -1,0 +1,7 @@
+torch>=1.4
+torchvision>=0.5
+dominate>=2.4.0
+visdom>=0.1.8.8
+numpy
+tqdm
+torchsummary
